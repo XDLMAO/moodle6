@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-measurement-api:19.0.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8db4fa4c1005e8d48c32df838ff1c98d/transformed/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8db4fa4c1005e8d48c32df838ff1c98d/transformed/jetified-play-services-measurement-api-19.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../moodleandroid3/caches/transforms-3/8db4fa4c1005e8d48c32df838ff1c98d/transformed/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../moodleandroid3/caches/transforms-3/8db4fa4c1005e8d48c32df838ff1c98d/transformed/jetified-play-services-measurement-api-19.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-api/19.0.0/96ca3a78e54874a350bd808e9f407fc7a7ea93/play-services-measurement-api-19.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../moodleandroid3/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-api/19.0.0/96ca3a78e54874a350bd808e9f407fc7a7ea93/play-services-measurement-api-19.0.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

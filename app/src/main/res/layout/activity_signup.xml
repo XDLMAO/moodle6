@@ -60,33 +60,6 @@
         app:layout_constraintTop_toBottomOf="@+id/textView">
 
 
-        <EditText
-            android:id="@+id/editTextEmailNav"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:background="@drawable/login_edittext_bg"
-            android:drawableStart="@drawable/ic_person"
-            android:drawableLeft="@drawable/ic_person"
-            android:drawablePadding="16dp"
-            android:hint="Name"
-            android:inputType="text"
-            android:padding="16dp"
-            android:textSize="14sp" />
-
-        <EditText
-            android:id="@+id/editTextEmail"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:background="@drawable/login_edittext_bg"
-            android:drawableStart="@drawable/ic_baseline_email_24"
-            android:drawableLeft="@drawable/ic_baseline_email_24"
-            android:drawablePadding="16dp"
-            android:hint="Email"
-            android:inputType="textEmailAddress"
-            android:padding="16dp"
-            android:textSize="14sp" />
 
         <RadioGroup
             android:id="@+id/role"
@@ -107,48 +80,6 @@
 
 
 
-        <EditText
-            android:id="@+id/editTextSdt"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:background="@drawable/login_edittext_bg"
-            android:drawableStart="@drawable/ic_baseline_phone_24"
-            android:drawableLeft="@drawable/ic_baseline_phone_24"
-            android:drawablePadding="16dp"
-            android:hint="Phone Number"
-            android:inputType="number"
-            android:padding="16dp"
-            android:textSize="14sp" />
-
-
-        <EditText
-            android:id="@+id/editTextMatKhau"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:background="@drawable/login_edittext_bg"
-            android:drawableStart="@drawable/ic_lock"
-            android:drawableLeft="@drawable/ic_lock"
-            android:drawablePadding="16dp"
-            android:hint="Password"
-            android:inputType="textPassword"
-            android:padding="16dp"
-            android:textSize="14sp" />
-
-        <EditText
-            android:id="@+id/editTextXacNhan"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:background="@drawable/login_edittext_bg"
-            android:drawableStart="@drawable/ic_baseline_lock_clock_24"
-            android:drawableLeft="@drawable/ic_baseline_lock_clock_24"
-            android:drawablePadding="16dp"
-            android:hint="Re-password"
-            android:inputType="textPassword"
-            android:padding="16dp"
-            android:textSize="14sp" />
 
 
         <Button
@@ -183,7 +114,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-medium"
-        android:text="Creat new Account"
+        android:text="Selected Role"
         android:textColor="@color/textHeadline"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
