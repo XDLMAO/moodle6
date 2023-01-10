@@ -77,14 +77,14 @@
                     android:layout_height="match_parent">
 
                     <TextView
-                        android:id="@+id/Signal"
+                        android:id="@+id/exercise"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_below="@id/ivHTV"
                         android:layout_centerHorizontal="true"
                         android:layout_marginTop="10dp"
                         android:fontFamily="@font/bungee"
-                        android:text="Signal and System"
+                        android:text="Exercise"
                         android:textSize="14sp" />
 
                     <ImageView
@@ -125,14 +125,14 @@
                     android:layout_height="match_parent">
 
                     <TextView
-                        android:id="@+id/mobile"
+                        android:id="@+id/midterm"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_below="@id/ivSXC"
                         android:layout_centerHorizontal="true"
                         android:layout_marginTop="10dp"
                         android:fontFamily="@font/bungee"
-                        android:text="Mobile Application"
+                        android:text="Midterm"
                         android:textSize="14sp" />
 
                     <ImageView
@@ -173,14 +173,14 @@
                     android:layout_height="match_parent">
 
                     <TextView
-                        android:id="@+id/crypto"
+                        android:id="@+id/finalexam"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_below="@id/ivDK"
                         android:layout_centerHorizontal="true"
                         android:layout_marginTop="10dp"
                         android:fontFamily="@font/bungee"
-                        android:text="Cryptography"
+                        android:text="Final Exam"
                         android:textSize="14sp" />
 
                     <ImageView
